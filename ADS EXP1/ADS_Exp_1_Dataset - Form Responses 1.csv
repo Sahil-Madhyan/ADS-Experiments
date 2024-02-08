@@ -1,0 +1,41 @@
+Timestamp ,Email Address,Full Name,Division,Have you opted Applied Data Science ?,Have attended ADS lectures ?,Have attended ADS Lab ?,What number of lecture did you attend?,What number of labs did you attend?,How well did you understand the concept of applied data science ?,How well did you understand the difference between data science and data analytics ?,How well did you understand the data wrangling?,How well do you know about data lakes and different tools about data analytics?,"How well did you understand the concept of mean, median and mode?",How well did you understand the concept of cumulative frequency?,How well did you understand features related to iris flower dataset?,How well are you able to solves numerical problems based on cumulative frequency?,How well are you able to understand the different graphs like bar and histogram ?,How well are you able to find arithmetic median based on class interval ?,Explains concepts in understandable way,Solves doubts willingly,How is the structuring of course,How well was the use of presentation,Provide support for student going above and beyond
+1/22/2024 22:06:29,2020.shubham.gupta@ves.ac.in,Shubham Gupta,D17C,Yes,Yes,Yes,4,2,4,4,3,3,5,5,5,4,5,5,4,4,5,5,5
+1/22/2024 22:08:14,2020.siddhant.kodolkar@ves.ac.in,Siddhant Kodolkar ,D17C,Yes,Yes,Yes,4,1,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4
+1/22/2024 22:09:14,2020.mansi.bellani@ves.ac.in,Mansi Bellani,D17C,Yes,Yes,Yes,2,2,4,5,4,4,4,4,5,5,5,5,4,5,5,5,5
+1/22/2024 22:09:21,2020.aditya.mundas@ves.ac.in,Aditya Mundas,D17C,Yes,Yes,Yes,3,1,4,5,4,4,5,5,4,4,5,5,5,5,5,5,5
+1/22/2024 22:09:47,2020.vishakha.kulkarni@ves.ac.in,Vishakha Kulkarni,D17C,Yes,Yes,Yes,2,1,4,5,3,3,5,5,5,5,5,5,4,3,4,4,4
+1/22/2024 22:10:49,2020.mihir.bhatkar@ves.ac.in,Mihir Bhatkar,D17C,Yes,Yes,No,2,1,2,4,2,3,5,2,1,5,2,3,2,4,4,3,2
+1/22/2024 22:10:56,2020.sahil.kishnani@ves.ac.in,Sahil Kishnani ,D17C,Yes,Yes,Yes,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+1/22/2024 22:11:39,2020.harsh.karira@ves.ac.in,Harsh Shankar Karira,D17C,Yes,Yes,Yes,5,2,4,4,4,5,5,5,5,5,5,5,5,5,4,4,5
+1/22/2024 22:12:32,2020.khusboo.kimtani@ves.ac.in,Khusboo Harpal Kimtani,D17C,No,,,,,,,,,,,,,,,,,,,
+1/22/2024 22:14:54,2020.sachin.choudhary@ves.ac.in,Sachin Choudhary,D17C,Yes,Yes,Yes,4,2,4,4,4,4,5,5,4,4,5,4,4,5,4,4,4
+1/22/2024 22:15:30,2020.vinit.patil@ves.ac.in,Vinit Gajendra Patil ,D17B,Yes,Yes,Yes,4,1,5,4,3,3,5,5,5,5,5,5,4,5,5,5,4
+1/22/2024 22:15:38,2020.muskan.chhabria@ves.ac.in,Muskan Chhabria,D17C,Yes,Yes,Yes,5,2,5,4,4,4,5,4,5,3,5,4,4,4,5,3,4
+1/22/2024 22:16:06,2020.chirag.dodeja@ves.ac.in,Chirag Dodeja,D17C,Yes,Yes,Yes,4,2,4,5,1,2,5,5,4,5,4,5,4,3,3,2,3
+1/22/2024 22:18:27,2020.varun.chawla@ves.ac.in,varun chawla,D17A,Yes,Yes,Yes,5,2,3,3,3,3,4,3,4,3,4,4,3,2,3,3,3
+1/22/2024 22:24:00,2020.japneet.rajput@ves.ac.in,Japneet Rajput,D17C,No,,,,,,,,,,,,,,,,,,,
+1/22/2024 22:33:22,2020.niranjan.yeole@ves.ac.in,Niranjan Yeole ,D17C,Yes,Yes,Yes,2,1,5,4,3,2,5,5,4,4,5,4,5,5,1,5,3
+1/22/2024 22:42:51,2020.ashutosh.mishra@ves.ac.in,Ashutosh Mishra ,D17C,Yes,Yes,Yes,3,1,5,5,5,5,5,5,5,5,5,5,5,3,4,4,5
+1/22/2024 23:09:33,2020.anishkumar.mahalingam@ves.ac.in,Anishkumar Iyer ,D17C,No,,,,,,,,,,,,,,,,,,,
+1/22/2024 23:10:16,2020.siya.doshi@ves.ac.in,Siya ,D17C,No,,,,,,,,,,,,,,,,,,,
+1/23/2024 0:05:08,2020.navin.idnani@ves.ac.in,Navin Idnani ,D17C,Yes,No,No,3,0,1,3,3,3,3,3,3,3,3,3,3,3,4,4,3
+1/23/2024 0:24:29,2020.siyona.singh@ves.ac.in,Siyona Singh,D17C,No,,,,,,,,,,,,,,,,,,,
+1/23/2024 0:35:52,2020.chitra.atlani@ves.ac.in,Chitra Atlani ,D17C,No,,,,,,,,,,,,,,,,,,,
+1/23/2024 1:53:29,2020.divesh.chhoda@ves.ac.in,Divesh Chhoda,D17C,Yes,Yes,Yes,4,1,4,4,4,3,5,3,2,3,4,3,4,4,3,4,4
+1/23/2024 4:14:44,d2020.kesar.jotwani@ves.ac.in,Kesar Jotwani,D17A,Yes,Yes,Yes,3,2,1,1,1,1,3,1,1,1,1,1,1,1,2,2,1
+1/23/2024 4:57:22,2020.omkar.mahajan@ves.ac.in,Omkar Mahajan,D17B,Yes,Yes,No,2,0,4,4,4,5,5,5,4,5,4,4,3,3,2,5,4
+1/23/2024 6:18:02,simmilahrani@gmail.com,Simran Lahrani,D17A,Yes,Yes,Yes,3,1,4,4,3,4,5,4,4,4,5,5,4,5,5,5,5
+1/23/2024 6:22:57,2020.sahil.madhyan@ves.ac.in,Sahil Kishin Madhyan,D17C,Yes,Yes,Yes,5,1,5,5,5,5,4,4,5,3,5,4,5,4,5,5,5
+1/23/2024 6:39:34,2020.rinki.tejwani@ves.ac.in,Rinki Dilip Tejwani ,D17A,Yes,Yes,Yes,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+1/23/2024 7:59:03,2020.anuj.bagad@ves.ac.in,Anuj Bagad,D17C,Yes,Yes,Yes,4,1,4,4,2,2,5,5,5,5,4,5,4,4,4,3,5
+1/23/2024 8:27:48,shewkaninaresh@gmail.com,Naresh Shewkani,D17A,Yes,Yes,Yes,2,0,2,3,2,3,3,4,3,3,2,3,3,5,2,3,3
+1/23/2024 14:47:14,2020.shalini.mirani@ves.ac.in,Shalini Sanjay Mirani,D17C,Yes,Yes,No,4,0,3,3,3,3,4,4,3,4,4,4,3,3,2,2,3
+1/23/2024 22:07:51,2020.bhargav.mungekar@ves.ac.in,Bhargav Mungekar,D17C,Yes,Yes,Yes,3,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+1/27/2024 9:16:45,2020.suhail.shaikh@ves.ac.in,Suhail shaikh,D17C,Yes,Yes,Yes,3,1,5,5,3,5,3,5,3,5,4,5,4,5,4,5,4
+1/27/2024 9:28:55,2020.aayushi.salunkhe@ves.ac.in,Aayushi Pankaj Salunkhe,D17C,Yes,Yes,No,3,0,4,4,3,4,5,5,5,4,5,5,4,4,4,3,4
+1/27/2024 9:40:15,2020.jatin.ochani@ves.ac.in,Jatin Ochani ,D17C,Yes,Yes,Yes,3,1,4,3,4,4,5,4,4,4,4,4,4,4,4,4,3
+1/27/2024 10:02:59,2020.sahil.ramchandani@ves.ac.in,Sahil Ramchandani ,D17C,Yes,Yes,Yes,3,0,3,3,3,3,3,3,3,3,4,4,3,4,4,4,4
+1/27/2024 11:14:41,2020.suraj.patel@ves.ac.in,Suraj Patel,D17C,Yes,Yes,Yes,3,2,4,4,4,4,4,4,4,4,4,3,4,3,4,5,4
+1/29/2024 21:20:42,2020.deepali.duseja@ves.ac.in,Deepali Sanjay Duseja ,D17C,Yes,Yes,Yes,3,1,4,3,3,3,5,3,4,3,4,4,4,5,5,5,4
+2/1/2024 21:14:51,2020.sakshi.shahdadpuri@ves.ac.in,Sakshi Shahdadpuri,D17A,Yes,Yes,Yes,4,1,4,5,4,4,5,5,4,4,5,5,5,5,4,5,5
+2/4/2024 21:10:14,2020.dimple.madhwani@ves.ac.in,Dimple Madhwani ,D17B,Yes,Yes,Yes,4,1,3,4,3,3,4,4,3,4,3,4,4,3,4,4,3
